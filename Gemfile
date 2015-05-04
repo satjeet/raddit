@@ -8,6 +8,9 @@ gem 'devise', :git => 'https://github.com/plataformatec/devise.git'
 #hacer la opcion de votos
 gem 'acts_as_votable', '~> 0.10.0'
 
+
+#formulario de comentario, easy
+gem 'simple_form', '~>3.1.0'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
