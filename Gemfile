@@ -5,6 +5,8 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.1'
 #devise
 gem 'devise', :git => 'https://github.com/plataformatec/devise.git'
+#hacer la opcion de votos
+gem 'acts_as_votable', '~> 0.10.0'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
